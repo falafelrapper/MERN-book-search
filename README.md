@@ -10,7 +10,7 @@
 
 ## Welcome to the twenty first Challenge of the UCLA Bootcamp!
 
-In this challenge we were supposed to make a portfolio website, all completely built within React and Netlify. You should be able to view a homepage, an about me page, a portfolio page featuring all of my previous projects, a resume page, and a contact page. To start, we should follow our user story on what we want to solve:
+In this challenge we were supposed to take a code with a fully functioning Google Books API search engine built with a RESTful API, and refactor it to be a GraphQL API built with Apollo Server. You should be able to use the website the same way as before, but now using the MERN stack flow. To start, we should follow our user story on what we want to solve:
 
 ## User Story
 
@@ -56,7 +56,7 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 
 ## The Completed Challenge
 
-After completing the challenge, we should now have a functioning portfolio page that you can view and get in contact with me now. You can view all here [here](https://zachary-roy.netlify.app/)!
+After completing the challenge, we should now have a functioning site that is through Render and can be used with the MERN stack. You can view all here [here](https://zachary-roy.netlify.app/)!
 
 ## Credits
 This refactor was completed by Zachary Roy
