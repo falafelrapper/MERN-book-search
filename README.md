@@ -56,7 +56,7 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 
 ## The Completed Challenge
 
-After completing the challenge, we should now have a functioning site that is through Render and can be used with the MERN stack. You can view all here [here](https://zachary-roy.netlify.app/)!
+After completing the challenge, we should now have a functioning site that is through Render and can be used with the MERN stack. You can view all here [here](https://mern-book-search-7p5l.onrender.com/)!
 
 ## Credits
 This refactor was completed by Zachary Roy
